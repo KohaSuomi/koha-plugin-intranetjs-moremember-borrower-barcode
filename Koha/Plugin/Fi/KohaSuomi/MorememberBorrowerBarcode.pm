@@ -22,7 +22,7 @@ our $metadata = {
     minimum_version => '17.05',
     maximum_version => '99.99',
     version         => $VERSION,
-    description     => 'Show borrower barcode in the borrower account information page',
+    description     => 'Show borrower barcode in the borrower account information page. (Paikalliskannat)',
 };
 
 ## This is the minimum code required for a plugin's 'new' method
